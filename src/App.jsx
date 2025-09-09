@@ -4,7 +4,6 @@ import Products from "./pages/Products";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Cart from "./pages/Cart";
-import NavBar from "./component/NavBar";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import Footer from "./component/Footer";
@@ -12,6 +11,7 @@ import ProductDetails from "./pages/ProductDetails";
 import ProductCategory from "./pages/ProductCategory";
 import Protected from "./component/Protected";
 import { useCart } from "./context/CartContext";
+import NavBar from "./component/Navbar";
 
 const App = () => {
   const [userLocation, setUserLocation] = useState(null);
