@@ -1,3 +1,9 @@
+
+## Links
+
+- 🚀 <a href="https://hikari-works.vercel.app" target="_blank">Live Demo</a>  
+- 📦 <a href="https://github.com/nasiriqbal007/hikari-works" target="_blank">GitHub Repo</a>  
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
