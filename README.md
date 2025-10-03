@@ -1,8 +1,10 @@
 
 ## Links
 
-- 🚀 <a href="https://hikari-works.vercel.app" target="_blank">Live Demo</a>  
-- 📦 <a href="https://github.com/nasiriqbal007/hikari-works" target="_blank">GitHub Repo</a>  
+🔗 **Live Site:** [vercel](https://my-store-sigma-liard.vercel.app)  
+💻 **Repository:** [nasiriqbal007/MyStore](https://github.com/nasiriqbal007/MyStore)
+
+
 
 # React + Vite
 
